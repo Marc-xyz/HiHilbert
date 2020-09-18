@@ -60,3 +60,19 @@ Die Motivation für die Herstellung dieses Repositoriums ist in dem folgenden Eu
 * Hi Hilbert. El repositori és un recull de solucions a problemas de geometria projectiva i altres geometries que conté. 
 * Hola Hilbert. The repository is a collection of solutions to problems of projective geometry and other geometries it contains.
 -->
+
+## Verbleibende Ziele 
+* [ ] I.3
+* [ ] I.5
+* [ ] I.7
+* [ ] I.9
+* [ ] I.10
+* [ ] I.11 (altures)
+* [ ] I.11 (bisectrius)
+* [ ] I.12
+* [ ] I.14
+* [ ] I.15
+* [ ] I.16
+* [ ] I.18
+* [ ] I.21
+
