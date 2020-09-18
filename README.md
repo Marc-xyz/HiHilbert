@@ -30,6 +30,31 @@ Die Motivation für die Herstellung dieses Repositoriums ist in dem folgenden Eu
 |--------------------------------------|----------------------------------------------|
 |                                      |                                              |
 
+```Haskell
+.
+├── GL_01Solucions_GeometriaEuclidianaClassica
+│   ├── GL_SolucioLlista01_Exercici001_Apartat0A_Part01.jpg
+│   ├── GL_SolucioLlista01_Exercici001_Apartat0B_Part01.jpg
+│   ├── GL_SolucioLlista01_Exercici001_Apartat0C_Part01.jpg
+│   ├── GL_SolucioLlista01_Exercici001_Apartat0D_Part01.jpg
+│   ├── GL_SolucioLlista01_Exercici001_Apartat0E_Part01.jpg
+│   ├── GL_SolucioLlista01_Exercici001_Apartat0F_Part01.jpg
+│   ├── GL_SolucioLlista01_Exercici001_Apartat0G_Part01.jpg
+│   ├── GL_SolucioLlista01_Exercici001_Apartat0G_Part02.png
+│   ├── GL_SolucioLlista01_Exercici001_Apartat0H_Part01.png
+│   ├── GL_SolucioLlista01_Exercici003_Apartat01_Part01.jpg
+│   ├── GL_SolucioLlista01_Exercici003_Apartat01_Part02.jpg
+│   ├── GL_SolucioLlista01_Exercici004_Apartat01_Part01.jpg
+│   ├── GL_SolucioLlista01_Exercici008_Apartat01_Part01.jpg
+│   ├── GL_SolucioLlista01_Exercici009_Apartat01_Part01.jpg
+│   └── GL_SolucioLlista01_Exercici009_Apartat01_Part02.jpg
+├── GL_02Solucions_GeometriaDeHilbert
+├── GL_03Solucions_GeometriaProjectivaAxiomatica
+├── GL_04Solucions_GeometrivaProjectiva
+├── HiHilbert.pdf
+└── README.md
+
+```
 ## Beschreibung (**Drei**)
 <!--* Hola Hilbert. El repositorio es una recopilación de soluciones a problemas de geometría proyectiva y otras geometrías que contiene.
 * Hi Hilbert. El repositori és un recull de solucions a problemas de geometria projectiva i altres geometries que conté. 
